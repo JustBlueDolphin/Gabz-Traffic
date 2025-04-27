@@ -7676,6 +7676,10 @@
           <Name>taco</Name>
           <Variations type="NULL"/>
         </Item>
+        <Item>
+            <Name>gbboxboyft</Name>
+            <Variations type="NULL"/>
+        </Item>
       </models>
       <flags>POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
     </Item>
@@ -7837,6 +7841,14 @@
         <Item>
           <Name>tractor2</Name>
           <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>gbbisonhf</Name>
+            <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>gbmojave</Name>
+            <Variations type="NULL"/>
         </Item>
       </models>
       <flags>POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
