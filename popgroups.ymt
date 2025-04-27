@@ -8458,6 +8458,22 @@
           <Name>taxi</Name>
           <Variations type="NULL"/>
         </Item>
+        <Item>
+            <Name>gbtaxiargento7f</Name>
+            <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>gbtaxieon</Name>
+            <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>gbtaxistanierle</Name>
+            <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>gbtaxistarlight</Name>
+            <Variations type="NULL"/>
+        </Item>
       </models>
       <flags>POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
     </Item>
