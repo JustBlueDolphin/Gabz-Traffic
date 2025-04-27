@@ -6913,10 +6913,6 @@
           <Variations type="NULL"/>
         </Item>
         <Item>
-          <Name>tornado</Name>
-          <Variations type="NULL"/>
-        </Item>
-        <Item>
           <Name>jester</Name>
           <Variations type="NULL"/>
         </Item>
@@ -6986,6 +6982,18 @@
         </Item>
         <Item>
             <Name>gbtr3s</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbmilano</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbschlagenr</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbschlagensp</Name>
             <Variations type="NULL" />
         </Item>
       </models>
@@ -7175,6 +7183,22 @@
         <Item>
           <Name>tiptruck2</Name>
           <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>gbvoyagerb</Name>
+            <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>gbvoyagerb2</Name>
+            <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>gbvoyagerg</Name>
+            <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>gbvoyagerh</Name>
+            <Variations type="NULL"/>
         </Item>
       </models>
       <flags>POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
