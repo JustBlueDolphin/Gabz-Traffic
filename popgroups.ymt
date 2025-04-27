@@ -6316,6 +6316,10 @@
             <Name>gbvivant</Name>
             <Variations type="NULL" />
         </Item>
+        <Item>
+            <Name>gbimpaler</Name>
+            <Variations type="NULL" />
+        </Item>
       </models>
       <flags>POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
     </Item>
@@ -6642,6 +6646,10 @@
         </Item>
         <Item>
             <Name>gbirisz</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbimpaler</Name>
             <Variations type="NULL" />
         </Item>
       </models>
@@ -7300,10 +7308,6 @@
           <Name>trash</Name>
           <Variations type="NULL"/>
         </Item>
-        <Item>
-            <Name>trash</Name>
-            <Variations type="NULL"/>
-        </Item>
       </models>
       <flags>POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
     </Item>
@@ -7341,6 +7345,10 @@
         <Item>
           <Name>trash</Name>
           <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>gbvoyagerg</Name>
+            <Variations type="NULL"/>
         </Item>
       </models>
       <flags>POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
@@ -7483,6 +7491,34 @@
         <Item>
           <Name>tiptruck2</Name>
           <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>gbsultanrsx</Name>
+            <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>gbmojave</Name>
+            <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>gbeon</Name>
+            <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>gbgresleystx</Name>
+            <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>gbharmann</Name>
+            <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>gbcomets1t</Name>
+            <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>gbadmiral</Name>
+            <Variations type="NULL"/>
         </Item>
       </models>
       <flags>POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
