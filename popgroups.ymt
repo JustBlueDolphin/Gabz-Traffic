@@ -6304,6 +6304,18 @@
           <Name>pigalle</Name>
           <Variations type="NULL"/>
         </Item>
+        <Item>
+            <Name>gbtahomagt</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbkomodagt</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbvivant</Name>
+            <Variations type="NULL" />
+        </Item>
       </models>
       <flags>POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
     </Item>
@@ -6563,6 +6575,66 @@
         <Item>
           <Name>pigalle</Name>
           <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>gbbriosof</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbclubxr</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbturismogt</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbturismogts</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbstanierle</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbstarlight</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbsultanrsx</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbclubxr</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbeon</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbturismogt</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbtenfr</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbstanierle</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbdominatorgsx</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbesperta</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbbisonstx</Name>
+            <Variations type="NULL" />
         </Item>
       </models>
       <flags>POPGROUP_NETWORK_COMMON POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
@@ -6863,6 +6935,58 @@
         <Item>
           <Name>furoregt</Name>
           <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>gb811s2</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbargento7f</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbbanshees</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gblod4</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbcomets2r</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbemerussb1</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbnexusrr</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbprospero</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbronin</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbsolacev</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbsolace</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbneonct</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbtr3s</Name>
+            <Variations type="NULL" />
         </Item>
       </models>
       <flags>POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
@@ -8595,8 +8719,16 @@
           <Variations type="NULL"/>
         </Item>
         <Item>
-          <Name>taxi</Name>
-          <Variations type="NULL"/>
+            <Name>gbtaxieon</Name>
+            <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>gbtaxistanierle</Name>
+            <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>gbtaxistarlight</Name>
+            <Variations type="NULL"/>
         </Item>
       </models>
       <flags>POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
