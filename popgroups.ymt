@@ -6636,6 +6636,14 @@
             <Name>gbbisonstx</Name>
             <Variations type="NULL" />
         </Item>
+        <Item>
+            <Name>gbissimetro</Name>
+            <Variations type="NULL" />
+        </Item>
+        <Item>
+            <Name>gbirisz</Name>
+            <Variations type="NULL" />
+        </Item>
       </models>
       <flags>POPGROUP_NETWORK_COMMON POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
     </Item>
@@ -7193,10 +7201,6 @@
             <Variations type="NULL"/>
         </Item>
         <Item>
-            <Name>gbvoyagerg</Name>
-            <Variations type="NULL"/>
-        </Item>
-        <Item>
             <Name>gbvoyagerh</Name>
             <Variations type="NULL"/>
         </Item>
@@ -7255,8 +7259,8 @@
           <Variations type="NULL"/>
         </Item>
         <Item>
-          <Name>tiptruck2</Name>
-          <Variations type="NULL"/>
+            <Name>gbvoyagerg</Name>
+            <Variations type="NULL"/>
         </Item>
       </models>
       <flags>POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
@@ -7295,6 +7299,10 @@
         <Item>
           <Name>trash</Name>
           <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>trash</Name>
+            <Variations type="NULL"/>
         </Item>
       </models>
       <flags>POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
@@ -7880,6 +7888,14 @@
           <Name>tractor2</Name>
           <Variations type="NULL"/>
         </Item>
+        <Item>
+            <Name>gbkomodagt</Name>
+            <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>gbraidillon</Name>
+            <Variations type="NULL"/>
+        </Item>
       </models>
       <flags>POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
     </Item>
@@ -7965,6 +7981,22 @@
         <Item>
           <Name>tractor2</Name>
           <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>gbkomodagt</Name>
+            <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>gbvivant</Name>
+            <Variations type="NULL"/>
+          </Item>
+        <Item>
+            <Name>gbvivant</Name>
+            <Variations type="NULL"/>
+        </Item>
+        <Item>
+            <Name>gbmogulrs</Name>
+            <Variations type="NULL"/>
         </Item>
       </models>
       <flags>POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
